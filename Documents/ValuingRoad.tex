@@ -1,0 +1,59 @@
+\documentclass[a4paper]{scrartcl}
+
+\usepackage[comma, sort&compress]{natbib}
+\usepackage{microtype, amsmath, fullpage, setspace}
+\doublespacing
+
+%opening
+\title{Valuing Road-Transport Noise Abatement Measures}
+\author{Duco de Vos}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Transport noise is a costly affair. Substantial noise-levels can cause annoyance, stress and illness.   According to a European report \citep{CEDelft2011}, the external cost of noise induced by road transport in Europe\footnote{EU27 excluding Malta and Cyprus, including Norway and Switzerland.} amounts to 17 Billion euro’s annually. In Europe the Environmental Noise Directive \footnote{European Commission, 2002. Environmental noise directive 2002/49/EG.} aims to reduce harmful noise-exposure of citizens. Without specifying limit noise-values, this directive still incentivizes governments to devise policy-measures against noise. The main goal of noise-abatement policy measures is to minimize the external costs of noise, arising in the absence of a market for tranquility. In the Netherlands these external costs may, partly, be mitigated by road- and fuel taxes \citep{Andersson2013}, in combination with policy measures such as silent tires, silent tarmac, traffic management systems (TMS), highway sound-barriers and housing-insulation \citep{RIVM2001}.
+
+Within this maze of policy-measures and different taxes, it seems difficult to evaluate the current situation in the Netherlands against the socially optimal outcome, where the marginal costs of abatement (e.g. construction costs of sound barriers, implementation costs of TMS etc.) equal the marginal benefit of abatement (i.e. marginal willingness-to-pay for noise reduction). The objective of this paper is to develop a framework from which the economic efficiency of transport-noise policy measures can be evaluated. Section 2 gives an overview of the current academic debate concerning noise-abatement policy, section 3 elaborates on strategies to estimate the willingness-to-pay for noise reduction, section 4 deals with the different cost types associated with policy measures and section 5 concludes.
+
+\section{Literature Review}
+Since the 1920’s, the first-best solution to external costs in motoring is generally regarded to be a ‘road-pricing’ scheme that charges drivers the marginal external costs they impose on others (in terms of congestion, environmental damage, noise etc.) \citep{Pigou1924}. Electronic Road Pricing (ERP) schemes can nowadays be used to charge motorists a regulatory fee that can be differentiated along many dimensions (trip length, vehicle type etc.) in order to reflect the appropriate marginal external costs imposed \citep{Verhoef1995}. Although ERP schemes are technically feasible nowadays, social and political issues prevent such a system from being introduced widely. When road-users are not taxed for the negative effects of the noise they produce this noise will be overproduced. Still, an array of policy tools is developed to tackle the problem of traffic noise.
+
+The amount of  noise that an individual vehicle produces depends on the vehicle’s technical construction (type of motor, tires etc.), driver characteristics (driving speed and style) and on the type of road surface. Source-based policy measures are designed to limit noise generation: restrictions on motor and tire noise are placed at the EU level\footnote{European Commission, 2007.  Vehicle type approval framework directive 2007/46/EC.}, decisions on road surfaces (such as the implementation of silent tarmac) are made at a more local level. Traffic volume, the amount of lorries and traffic speed affect noise-levels greatly. Traffic-management systems influence the maximum speed and the flow of traffic and can therefore be used to limit noise-generation. Next to measures that limit noise-generation, the government can take steps in hampering noise propagation, through noise-barries walls and, ultimately through housing insulation.  Measures that tackle noise-generation are generally considered to be more cost-effective than measures that hamper noise-propagation \citep{DanishRoadInstituteDRI2005,DenBoer2007}.
+
+\section{Willingness-to-pay for noise reduction}
+
+As external effects are not (correctly) priced in the market, valuing these effects correctly poses a problem. Academic literature describes various solutions to the problem of estimating the value of external effects. Revealed-preference (RP) and stated-preference (SP) methods are the most frequently used tools in uncovering the willingness-to-pay/accept for external effects. Next to these methods some obscure methods, such as ‘quality-of-life’-surveys are used as a means to the same end \citep{VanPraag2001}. This section describes in detail the two most common methods (RP and SP) and briefly touches upon more obscure and innovative methods.
+
+\subsection{Hedonic pricing methods}
+
+Valuing external effects with the use of revealed preference methods is possible in the presence of private markets that are complementary to externality-avoidance, such as the market for housing \citep{Nelson2008}. Theoretically, a discount for noise can be obtained through analyzing the market values of identical houses in an environment with, and an environment without noise. This implies that people with a lower willingness-to-pay for noise-avoidance will locate in noisy areas, and people with a high willingness-to-pay will locate in more quiet areas. The resulting equilibrium can be disturbed in case of (durable) shocks in noise-levels, in which case a new stable equilibrium will arise. In reality the characteristics-spectrum of a house is much more complex, and a noisy environment can be offset by other positive characteristics.
+
+\cite{Rosen1974} defines hedonic prices as 
+	\begin{quote}"\dots implicit prices of attributes (\dots) revealed (\dots) from observed prices of differentiated products and the specific amounts of characteristics associated with them."\end{quote} 
+This entails that, in hedonic pricing models, the willingness-to-pay for a product is subdivided in terms of product characteristics and attributes. The 4 main assumptions for the operation of hedonic pricing analysis are defined by \cite{Bateman1993}:
+\begin{enumerate}
+	\item Aggregate willingness-to-pay reflects the social benefit.
+	\item Environmental quality changes are perceivable, and they affect the future benefits from owning a property, thus people are willing to pay for these quality changes.
+	\item The area considered is a competitive market with free access and perfect information on prices and environmental quality.
+	\item The housing market is in always equilibrium.
+\end{enumerate}
+An early hedonic pricing analysis of highway noise, done by \cite{Nelson1982} specifies a model:
+\begin{equation}
+V = V(Q, Z)
+\end{equation}
+
+In which $P$ represents a vector of housing price observations, $Q$ a vector of environmental quality characteristics, $Q_j$ the inverse of noise-level, and $Z$ a vector of all other housing characteristics. $\frac{\partial V}{\partial Q_j }$ then represents the marginal price tranquility. Evaluating  $\frac{\partial V}{\partial Q_j }$ for different levels of $Q_j$ results in an estimated price function of noise/tranquility. Noise sensitivity of housing prices is often evaluated by the Noise Depreciation Index (NDI) \citep{Walters1975}. For highway noise, \cite{Nelson1982} defines the NDI as the difference in total percentage depreciation divided by the difference in noise exposure, for residential properties that differ only in terms of noisy environment.	
+
+Besides the obvious advantage of HP-studies that they are based on real-world choices, some drawbacks to this approach exist as well. Assumption 3 and 4 as defined above, for instance, are highly unlikely to be realistic: It is doubtful whether there is perfect information concerning housing prices and environmental quality among individuals, and the housing market seems plagued with market imperfections.
+
+
+\subsection{Stated preference methods}
+
+In stated preference studies, a market for the external effect is simulated, in order for respondents to state their willingness-to-pay/accept for marginal changes the externality. In the field of environmental economics this method is often called contingent valuation, as the values obtained are “contingent” on the specifications of the simulated market. Such specification include the rules of the market (bidding, preference ranking), the way the market for the environmental externality is realistically described (in case of noise: to which extent real sound is used) and the way in which the value is stated (out-of-pocket, tax increase etc.).
+
+\bibliography{BibFile}
+\bibliographystyle{apalike}
+\end{document}

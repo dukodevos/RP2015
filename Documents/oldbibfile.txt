@@ -1,0 +1,233 @@
+@article{Andersson2013,
+author = {Andersson, Henrik and \"{O}gren, Mikael},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/AnderssonOgren2013ChargingThePolluters.pdf:pdf},
+journal = {Journal of Transport Economics and Policy},
+number = {September},
+pages = {313--333},
+title = {{Charging the Polluters}},
+volume = {47},
+year = {2013}
+}
+@article{Andersson2007,
+author = {Andersson, Henrik and \"{O}gren, Mikael},
+doi = {10.1016/j.tranpol.2007.01.002},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/AnderssonOgren2008RailwaySRMCPricing.pdf:pdf},
+issn = {0967070X},
+journal = {Transport Policy},
+keywords = {externalities,marginal cost,noise,railway},
+month = may,
+number = {3},
+pages = {204--213},
+title = {{Noise charges in railway infrastructure: A pricing schedule based on the marginal cost principle}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0967070X07000042},
+volume = {14},
+year = {2007}
+}
+@techreport{RIVM2001,
+author = {{RIVM}},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/RIVM Rapport.pdf:pdf},
+number = {March},
+title = {{Valuing the benefits of environmental policy: The Netherlands}},
+year = {2001}
+}
+@article{Boes2011,
+
+doi = {10.1016/j.jue.2010.09.007},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/BoesNuesch2011AircraftnoiseApartmentrents.pdf:pdf},
+issn = {00941190},
+journal = {Journal of Urban Economics},
+keywords = {Aircraft noise,Difference-in-differences,Fixed effects,Hedonic approach,Housing market,Quasi-experiment,Repeat-sales},
+number = {2},
+pages = {196--204},
+publisher = {Elsevier Inc.},
+title = {{Quasi-experimental evidence on the effect of aircraft noise on apartment rents}},
+url = {http://dx.doi.org/10.1016/j.jue.2010.09.007},
+volume = {69},
+year = {2011}
+}
+@phdthesis{Hamburg2011,
+author = {Brandt, Sebastian},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/Brandt2012ValuingLocalizingExternalities.pdf:pdf},
+school = {Universit\"{a}t Hamburg},
+title = {{Valuing and localizing externalities : Evidence from the housing market in Hamburg}},
+year = {2012}
+}
+@article{Kim2007,
+author = {Kim, Kwang Sik and Park, Sung Joong and Kweon, Young-Jun},
+doi = {10.1016/j.trd.2007.03.002},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/KimEtAl2007NoiseEffectsLandPrice.pdf:pdf},
+issn = {13619209},
+journal = {Transportation Research Part D: Transport and Environment},
+keywords = {hedonic price model,land price,property value,traffic noise},
+month = jun,
+number = {4},
+pages = {275--280},
+title = {{Highway traffic noise effects on land price in an urban area}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S1361920907000260},
+volume = {12},
+year = {2007}
+}
+
+@article{Nelson1982,
+  title={Highway noise and property values: a survey of recent evidence},
+author = {Nelson, Jon P.},
+  journal={Journal of transport economics and policy},
+  pages={117--138},
+  year={1982},
+  publisher={JSTOR}
+}
+
+@article{Nelson2003,
+author = {Nelson, Jon P.},
+file = {:C$\backslash$:/Users/Pieter/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Landau - 1937 - No Title.pdf:pdf},
+journal = {Journal of Transport Economics and Policy},
+number = {January 2004},
+title = {{Meta-Analysis of Airport Noise and Hedonic Property Values: Problems and Prospects}},
+year = {2003}
+}
+@article{Navrud2000,
+author = {Navrud, S},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/Navrud2000CVstudy.pdf:pdf},
+journal = {Internoise},
+keywords = {annoyance costs,contingent valuation,cost-benefit analysis,social costs},
+number = {August},
+pages = {3395--3400},
+title = {{Economic benefits of a program to reduce transporation and community noise. A contingent valuation study}},
+year = {2000}
+}
+@article{Nelson2008,
+author = {Nelson, Jon P.},
+editor = {{Baranzini, A.; Ramirez, J.; Schaerer, C.; Thalmann}, P.},
+file = {:C$\backslash$:/Users/Pieter/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nelson - 2008 - Hedonic property value studies of transportation noise aircraft and road traffic.pdf:pdf},
+journal = {Pricing Environmental Amenities and Segregation},
+number = {October 2007},
+pages = {57--82},
+publisher = {Springer},
+shorttitle = {Hedonic property value studies of transportation n},
+title = {{Hedonic property value studies of transportation noise: aircraft and road traffic}},
+url = {http://link.springer.com/chapter/10.1007/978-0-387-76815-1\_4$\backslash$nhttp://www.locked-is.wyle.com/PDFs/archive/HPV7.pdf},
+year = {2008}
+}
+@article{Nijland2003,
+author = {Nijland, H.a. and {Van Kempen}, E.E.M.M. and {Van Wee}, G.P. and Jabben, J.},
+doi = {10.1016/S0967-070X(02)00064-1},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/NijlandEtAl2002CostBenefitsNoiseAbatement.pdf:pdf},
+issn = {0967070X},
+journal = {Transport Policy},
+keywords = {cost-benefit analysis,monetisation,transport},
+month = apr,
+number = {2},
+pages = {131--140},
+title = {{Costs and benefits of noise abatement measures}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0967070X02000641},
+volume = {10},
+year = {2003}
+}
+@article{Pope2008,
+author = {Pope, Jaren C.},
+doi = {10.1016/j.jue.2007.03.003},
+file = {:C$\backslash$:/Users/Pieter/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pope - 2008 - Buyer information and the hedonic The impact of a seller disclosure on the implicit price for airport noise.pdf:pdf},
+issn = {00941190},
+journal = {Journal of Urban Economics},
+keywords = {0094-1190,1 540 231 7417,2007 elsevier inc,all rights reserved,amenities,asymmetric information,e-mail address,edu,fax,hedonic,jcpope,noise,see front matter,vt},
+month = mar,
+number = {2},
+pages = {498--516},
+title = {{Buyer information and the hedonic: The impact of a seller disclosure on the implicit price for airport noise}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0094119007000319},
+volume = {63},
+year = {2008}
+}
+@unpublished{VanPraag2001,
+
+author = {van Praag, B. M S and Baarsma, B E},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/vanPraagBaarsma2001ShadowPriceAircraftNoise.pdf:pdf},
+institution = {Tinbergen Institute},
+series = {3},
+title = {{The Shadow Price of Aircraft Noise Nuisance}},
+url = {http://ideas.repec.org/p/dgr/uvatin/20000004.html},
+year = {2001}
+}
+@article{WardmanMarkandBristow2004,
+
+author = {Rosen, Sherwin},
+doi = {10.1086/260169},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/Rosen1974HedonicPricing.pdf:pdf},
+isbn = {00223808},
+issn = {0022-3808},
+journal = {Journal of Political Economy},
+number = {1},
+pages = {34},
+pmid = {1255},
+title = {{Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition}},
+volume = {82},
+year = {1974}
+}
+@techreport{CEDelft2011,
+address = {Delft},
+author = {{CE Delft} and Infras and {Fraunhofer ISI}},
+file = {:C$\backslash$:/Users/Pieter/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sutter - 2011 - External Costs of Transport in Europe Update Study for 2008.pdf:pdf},
+number = {September},
+title = {{External Costs of Transport in Europe Update Study for 2008}},
+year = {2011}
+}
+@article{VanPraag2005,
+
+author = {van Praag, B. M S and Baarsma, Barbara E.},
+doi = {10.1111/j.1468-0297.2004.00967.x},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/vanPraagBaarsma2004HappinessSurveyValueIntagibles.pdf:pdf},
+isbn = {0013-0133},
+issn = {00130133},
+journal = {Economic Journal},
+pages = {224--246},
+title = {{Using happiness surveys to value intangibles: The case of airport noise}},
+volume = {115},
+year = {2005}
+}
+@misc{Verhoef1995,
+author = {Verhoef, Erik T. and Nijkamp, Peter and Rietveld, Piet},
+booktitle = {Journal of Transport Economics and Policy},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Papers/Verhoef1995SecondBestRegulation.pdf:pdf},
+pages = {147--167},
+title = {{Second-best Requlation of Road Transport Externalities.pdf}},
+volume = {29},
+year = {1995}
+}
+@article{DanishRoadInstituteDRI2011,
+author = {{Danish Road Institute (DRI)}},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/DRI2011OptimisedNoiseBarriers.pdf:pdf},
+isbn = {9788792094773},
+title = {{Optimised Noise Barriers}},
+year = {2011}
+}
+@techreport{DanishRoadInstituteDRI2005,
+author = {{Danish Road Institute (DRI)}},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/DRI2005CBANoiseReducingPavements.pdf:pdf},
+isbn = {8791177731},
+title = {{Cost-benefit analysis on noise-reducing pavements}},
+year = {2005}
+}
+@techreport{DanishRoadInstituteDRI2004,
+author = {{Danish Road Institute (DRI)}},
+booktitle = {Report 137},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/DRI2004TrafficManagementNoiseReducingPavements.pdf:pdf},
+isbn = {8791177553},
+title = {{Traffic management and noise reducing pavements}},
+year = {2004}
+}
+@techreport{EuropeanEnvironmentalBureauEEB2012,
+author = {{European Environmental Bureau (EEB)}},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/EEB recommendations END FINAL.pdf:pdf},
+number = {October},
+pages = {1--7},
+title = {{A more effective Environmental Noise Directive}},
+year = {2012}
+}
+@techreport{DenBoer2007,
+author = {den Boer, Lc and Schroten, Arno},
+file = {:C$\backslash$:/Users/Pieter/Documents/STREEM Master/RP/Literature/Reports/2008-02\_traffic\_noise\_ce\_delft\_report.pdf:pdf},
+institution = {CE Delft},
+number = {August},
+title = {{Traffic noise reduction in Europe}},
+year = {2007}
+}
