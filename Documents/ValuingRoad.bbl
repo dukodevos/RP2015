@@ -12,6 +12,11 @@ Bateman, I. (1993).
   Techniques}}.
 \newblock CSERGE.
 
+\bibitem[Carson and Hanemann, 2005]{Carson2005}
+Carson, R.~T. and Hanemann, W.~M. (2005).
+\newblock {Chapter 17 Contingent Valuation}.
+\newblock {\em Handbook of Environmental Economics}, 2(05):821--936.
+
 \bibitem[{CE Delft} et~al., 2011]{CEDelft2011}
 {CE Delft}, Infras, and {Fraunhofer ISI} (2011).
 \newblock {External Costs of Transport in Europe Update Study for 2008}.
@@ -62,11 +67,18 @@ van Praag, B. M.~S. and Baarsma, B.~E. (2001).
 
 \bibitem[Verhoef et~al., 1995]{Verhoef1995}
 Verhoef, E.~T., Nijkamp, P., and Rietveld, P. (1995).
-\newblock {Second-best Requlation of Road Transport Externalities}.
+\newblock {Second-best Regulation of Road Transport Externalities}.
 
 \bibitem[Walters, 1975]{Walters1975}
 Walters, A.~A. (1975).
 \newblock {\em {Noise and Prices}}.
 \newblock Clarendon Press, Oxford.
+
+\bibitem[Wardman and Bristow, 2004]{Wardman2004}
+Wardman, M. and Bristow, A.~L. (2004).
+\newblock {Traffic related noise and air quality valuations: evidence from
+  stated preference residential choice models}.
+\newblock {\em Transportation Research Part D: Transport and Environment},
+  9:115--122.
 
 \end{thebibliography}

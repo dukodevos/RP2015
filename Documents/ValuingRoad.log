@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  24 JAN 2015 11:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  25 JAN 2015 20:21
 entering extended mode
 **ValuingRoad.tex
 ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.tex"
@@ -188,10 +188,6 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip54
-)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
@@ -246,31 +242,38 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [2]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [2] [3]
+ [3] [4]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [4]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [5]
 ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.bbl"
-[5]) [6] ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.aux
+[6]) [7] ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.aux
 ") ) 
 Here is how much of TeX's memory you used:
- 4119 strings out of 493921
- 64306 string characters out of 3144874
- 198245 words of memory out of 3000000
- 7331 multiletter control sequences out of 15000+200000
- 13961 words of font info for 82 fonts, out of 3000000 for 9000
+ 4098 strings out of 493921
+ 63920 string characters out of 3144874
+ 197266 words of memory out of 3000000
+ 7316 multiletter control sequences out of 15000+200000
+ 13796 words of font info for 81 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,8n,48p,1174b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,8n,48p,1189b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
@@ -281,9 +284,9 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ValuingRoad.pdf (6 pages, 135723 bytes).
+Output written on ValuingRoad.pdf (7 pages, 138090 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  14849 words of extra memory for PDF output out of 17280 (max. 10000000)
 
