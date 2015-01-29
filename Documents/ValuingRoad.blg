@@ -1,9 +1,25 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: ValuingRoad.aux
 The style file: apalike.bst
 Database file #1: BibFile.bib
+Repeated entry---line 272 of file BibFile.bib
+ : @article{Bateman1993
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 277 of file BibFile.bib
+ : @article{Carson2005
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 312 of file BibFile.bib
+ : @article{Nelson1982
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 333 of file BibFile.bib
+ : @book{Walters1975
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Theebe"
 Warning--empty institution in CEDelft2011
 Warning--empty institution in DanishRoadInstituteDRI2005
 Warning--there's a number but no series in Nelson2008
 Warning--empty institution in RIVM2001
-Warning--empty note in VanPraag2001
-(There were 5 warnings)
+(There were 4 error messages)
