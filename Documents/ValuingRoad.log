@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  29 JAN 2015 14:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  3 FEB 2015 20:42
 entering extended mode
 **ValuingRoad.tex
 ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.tex"
@@ -314,13 +314,13 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+ [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -361,7 +361,7 @@ Here is how much of TeX's memory you used:
  8825 multiletter control sequences out of 15000+200000
  14574 words of font info for 89 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,8n,48p,1242b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,8n,48p,1242b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Progra
@@ -374,7 +374,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on ValuingRoad.pdf (16 pages, 403973 bytes).
+Output written on ValuingRoad.pdf (16 pages, 404276 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
