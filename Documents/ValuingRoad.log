@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  6 FEB 2015 11:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.8)  6 FEB 2015 19:29
 entering extended mode
 **ValuingRoad.tex
 ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.tex"
@@ -338,20 +338,21 @@ Missing character: There is no ù in font cmr10!
 <Graph1.png, id=40, 734.745pt x 505.89pt>
 File: Graph1.png Graphic file (type png)
  <use Graph1.png>
-Package pdftex.def Info: Graph1.png used on input line 100.
+Package pdftex.def Info: Graph1.png used on input line 103.
 (pdftex.def)             Requested size: 452.96796pt x 311.88855pt.
- [9 <C:/Users/Pieter/Documents/STREEM Master/RP/Documents/Graph1.png>]
-<Geluidskaart.jpg, id=45, 431.6125pt x 259.97125pt>
-File: Geluidskaart.jpg Graphic file (type jpg)
- <use Geluidskaart.jpg>
-Package pdftex.def Info: Geluidskaart.jpg used on input line 123.
-(pdftex.def)             Requested size: 362.37573pt x 218.27518pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] [11 <C:/Users/Pieter/Documents/STREEM Master/RP/Documents/Geluidskaart.jpg
->] [12] ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.bbl"
+[9] [10 <C:/Users/Pieter/Documents/STREEM Master/RP/Documents/Graph1.png>]
+<Geluidskaart.jpg, id=48, 431.6125pt x 259.97125pt>
+File: Geluidskaart.jpg Graphic file (type jpg)
+ <use Geluidskaart.jpg>
+Package pdftex.def Info: Geluidskaart.jpg used on input line 126.
+(pdftex.def)             Requested size: 362.37573pt x 218.27518pt.
+
+[11 <C:/Users/Pieter/Documents/STREEM Master/RP/Documents/Geluidskaart.jpg>]
+[12] ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.bbl"
 [13] [14]) [15]
 ("C:\Users\Pieter\Documents\STREEM Master\RP\Documents\ValuingRoad.aux") ) 
 Here is how much of TeX's memory you used:
@@ -361,7 +362,7 @@ Here is how much of TeX's memory you used:
  8846 multiletter control sequences out of 15000+200000
  15108 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,8n,48p,1369b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,8n,48p,1537b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Progra
@@ -374,7 +375,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on ValuingRoad.pdf (15 pages, 409868 bytes).
+Output written on ValuingRoad.pdf (15 pages, 413415 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
